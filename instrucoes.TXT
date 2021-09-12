@@ -1,0 +1,22 @@
+digitar npm init para iniciar um projeto
+
+para instalar o express, usar npm install express (framework)
+para criar servidores e rotas
+
+para rodar digitar no terminal node index.js
+
+nodemon biblioteca para atualizar o servidor automaticamente:
+npm install --save-dev nodemon 
+
+colocar no script para atualizar o servidor automaticamente:
+    "start": "nodemon index.js",
+
+instalar o consign: npm install consign para agrupar os modulos
+(pastas)
+
+installar o body-parser: npm install body-parser
+para que a requisicao seja 'traduzida';
+
+instalalr o sql no node: npm install mysql
+
+biblioteca moments (uso para datas): npm install moment
